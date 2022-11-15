@@ -5,6 +5,12 @@
 
 My conference presentations that have recordings in chronological order:
 
+[The 10 Biggest Mistakes You Shouldn’t Make In Open Source | KubeCon NA 2022](https://www.youtube.com/watch?v=InZvbdYmRrE)
+
+[Kubernetes Community Days For Fun And For Community Profit | KubeCon NA 2022](https://www.youtube.com/watch?v=O1QSzvv2TfM)
+
+[Cilium Updates, News And Roadmap | KubeCon NA 2022](https://www.youtube.com/watch?v=WxZr35Eyqxk)
+
 [Closing Remarks | Cloud Native Telco Day EU 2022](https://www.youtube.com/watch?v=1mhXXHvO0A0)
 
 [Composability is to Software as Compounding Interest is to Finance | KubeCon EU 2022](https://www.youtube.com/watch?v=25aVkm89ZT8)
