@@ -58,6 +58,18 @@ My conference presentations that have recordings in chronological order:
 
 [Cloud Computing as a Carrier | E-LIFE](https://www.youtube.com/watch?v=XwMpcZkqrck)
 
+### Case Studies
+
+[How Datadog uses Cilium & eBPF to power their data plane](https://www.cncf.io/case-studies/datadog/)
+
+[How Nexxiot runs integrated IoT hardware, software, and analytics with Cilium](https://www.cncf.io/case-studies/nexxiot/)
+
+[Zero Trust Networking with Cilium - Utmost](https://www.cncf.io/case-studies/utmost/)
+
+[Cilium User Story: Connecting 390+ Stores and 4.3 Billion Website Visitors](https://cilium.io/blog/2023/01/05/retail-user-story/)
+
+[Cilium User Story: Securing 100,000+ RPS in a Multi-Tenant Environment](https://cilium.io/blog/2022/10/13/publishing-user-story/)
+
 ### Connect with Me
 
 
