@@ -70,6 +70,8 @@ My conference presentations that have recordings in chronological order:
 
 [Cilium User Story: Securing 100,000+ RPS in a Multi-Tenant Environment](https://cilium.io/blog/2022/10/13/publishing-user-story/)
 
+[Cosmonic User Story: Running Cilium on Nomad for Wasm Workloads](https://cilium.io/blog/2023/01/18/cosmonic-user-story/)
+
 ### Connect with Me
 
 
