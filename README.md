@@ -72,6 +72,10 @@ My conference presentations that have recordings in chronological order:
 
 [Cosmonic User Story: Running Cilium on Nomad for Wasm Workloads](https://cilium.io/blog/2023/01/18/cosmonic-user-story/)
 
+### Annual Reports
+
+[Cilium Annual Report 2022](https://github.com/cilium/cilium.io/blob/main/Annual-Reports/Cilium%20Annual%20Report%202022.pdf)
+
 ### Connect with Me
 
 
