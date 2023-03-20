@@ -38,6 +38,8 @@ My conference presentations that have recordings in chronological order:
 
 [The Future of Service Mesh is Networking](https://www.infoq.com/articles/service-mesh-networking/)
 
+[How eBPF unlocks cloud native innovation](https://www.infoworld.com/article/3689690/how-ebpf-unlocks-cloud-native-innovation.html)
+
 [The Compounding (Business) Value of Composable Ecosystems | InfoQ](https://www.infoq.com/articles/open-source-composable-ecosystems/)
 
 [Edge Computing Requires Cloud Native Thinking Today | TFIR](https://www.tfir.io/edge-computing-requires-cloud-native-thinking-today/)
