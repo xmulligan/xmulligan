@@ -5,6 +5,8 @@
 
 My conference presentations that have recordings in chronological order:
 
+[Going for Graduation: Crossing the Chasm | KubeCon EU 2023](https://www.youtube.com/watch?v=fC8MVS7vuPs&list=PLj6h78yzYM2PyrvCoOii4rAopBswfz1p7&index=51
+
 [The 10 Biggest Mistakes You Shouldn’t Make In Open Source | KubeCon NA 2022](https://www.youtube.com/watch?v=InZvbdYmRrE)
 
 [Kubernetes Community Days For Fun And For Community Profit | KubeCon NA 2022](https://www.youtube.com/watch?v=O1QSzvv2TfM)
@@ -35,6 +37,8 @@ My conference presentations that have recordings in chronological order:
 
 
 ### Blog Posts
+
+[The Cilium Story So Far](https://cloudnativenow.com/features/the-cilium-story-so-far/)
 
 [The Future of Service Mesh is Networking](https://www.infoq.com/articles/service-mesh-networking/)
 
