@@ -54,6 +54,8 @@ My conference presentations that have recordings in chronological order:
 
 ### Podcast Appearances
 
+[Cilium and eBPF | Cloud Control](https://open.spotify.com/episode/10VUICcFgHKkzesewjVmxZ)
+
 [Best Practices to Build Community | The New Stack](https://www.youtube.com/watch?v=RXlmw19TPow)
 
 [Is your Kubernetes cluster a pet? | Cloud Unfiltered](https://soundcloud.com/cloudunfiltered/ep91-is-your-kubernetes-cluster-a-pet-with-bill-mulligan)
