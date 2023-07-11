@@ -38,11 +38,13 @@ My conference presentations that have recordings in chronological order:
 
 ### Blog Posts
 
-[The Cilium Story So Far](https://cloudnativenow.com/features/the-cilium-story-so-far/)
+[The Silent Platform Revolution: How eBPF Is Fundamentally Transforming Cloud-Native Platforms | InfoQ](https://www.infoq.com/articles/ebpf-cloud-native-platforms/)
 
-[The Future of Service Mesh is Networking](https://www.infoq.com/articles/service-mesh-networking/)
+[The Cilium Story So Far | Cloud Native Now](https://cloudnativenow.com/features/the-cilium-story-so-far/)
 
-[How eBPF unlocks cloud native innovation](https://www.infoworld.com/article/3689690/how-ebpf-unlocks-cloud-native-innovation.html)
+[The Future of Service Mesh is Networking | InfoQ](https://www.infoq.com/articles/service-mesh-networking/)
+
+[How eBPF unlocks cloud native innovation | InfoWorld](https://www.infoworld.com/article/3689690/how-ebpf-unlocks-cloud-native-innovation.html)
 
 [The Compounding (Business) Value of Composable Ecosystems | InfoQ](https://www.infoq.com/articles/open-source-composable-ecosystems/)
 
@@ -53,6 +55,8 @@ My conference presentations that have recordings in chronological order:
 [How to Treat Your Kubernetes Clusters Like Cattle, Not Pets | The New Stack](https://thenewstack.io/how-to-treat-your-kubernetes-clusters-like-cattle-not-pets/)
 
 ### Podcast Appearances
+
+[Ask me anything with Bill Mulligan from Isovalent](https://www.youtube.com/watch?v=T8vAyrnbqsQ)
 
 [Cilium and eBPF | Cloud Control](https://open.spotify.com/episode/10VUICcFgHKkzesewjVmxZ)
 
@@ -92,6 +96,6 @@ My conference presentations that have recordings in chronological order:
 
 
 - 💬 Ask me about open source, communities, CNCF, eBPF, and Cilium.
-- 📫 How to reach me: [@breakawaybilly](https://twitter.com/breakawaybilly) or billmulligan516 at gmail
+- 📫 How to reach me: [@breakawaybilly](https://twitter.com/breakawaybilly), [LinkedIn](https://www.linkedin.com/in/bamulligan/), or billmulligan516 at gmail
 - 😄 Pronouns: he/him
 
