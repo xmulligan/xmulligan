@@ -38,6 +38,8 @@ My conference presentations that have recordings in chronological order:
 
 ### Blog Posts
 
+[From IP to identity: making cattle out of pets in cloud native](https://www.cncf.io/blog/2023/07/24/from-ip-to-identity-making-cattle-out-of-pets-in-cloud-native/)
+
 [The Silent Platform Revolution: How eBPF Is Fundamentally Transforming Cloud-Native Platforms | InfoQ](https://www.infoq.com/articles/ebpf-cloud-native-platforms/)
 
 [The Cilium Story So Far | Cloud Native Now](https://cloudnativenow.com/features/the-cilium-story-so-far/)
