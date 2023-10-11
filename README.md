@@ -5,6 +5,12 @@
 
 My conference presentations that have recordings in chronological order:
 
+[Just Buzz or Real Byte? eBPF in Cloud Native | KubeCon China 2023](https://www.youtube.com/watch?v=UnERQrBXg1s&list=PLj6h78yzYM2OJcjIuAsbbhXAaDrAnuKRB&index=128)
+
+[Scaling up and Scaling Out Networking, Observability, and Security with Cilium | KubeCon China 2023](https://www.youtube.com/watch?v=l4Fe2YdtfvU&list=PLj6h78yzYM2OJcjIuAsbbhXAaDrAnuKRB&index=70)
+
+[Buzzing Across the Cloud Native Landscape with eBPF | KCD Zurich 2023](https://www.youtube.com/watch?v=2KzyYwn68Ew&list=PLj6h78yzYM2M4oTo8BEsrRSutWO8xomiV&index=2)
+
 [Going for Graduation: Crossing the Chasm | KubeCon EU 2023](https://www.youtube.com/watch?v=fC8MVS7vuPs&list=PLj6h78yzYM2PyrvCoOii4rAopBswfz1p7&index=51)
 
 [The 10 Biggest Mistakes You Shouldn’t Make In Open Source | KubeCon NA 2022](https://www.youtube.com/watch?v=InZvbdYmRrE)
