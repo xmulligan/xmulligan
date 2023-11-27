@@ -1,9 +1,15 @@
 ### Hi there 👋
 🐝 I am a Community Pollinator working to grow the [Cilium](https://github.com/cilium/cilium) and [eBPF](https://www.ebpf.io/) communities at [Isovalent](https://isovalent.com/). You can [subscribe to my bi-weekly newsletter](https://cilium.io/newsletter/) to stay up to date on the communities and all things cloud native networking, observability, and security.
 
+### Books
+
+[Buzzing Across Space: The Illustrated Children’s Guide to eBPF](https://ebpf.io/books/buzzing-across-space-illustrated-childrens-guide-to-ebpf.pdf)
+
 ### Conference Videos
 
 My conference presentations that have recordings in chronological order:
+
+[A Practical Guide to eBPF Licensing: Or How I Learned to Stop Worrying and Love the GPL | KubeCon NA 2023](https://www.youtube.com/watch?v=cxyDEdzNdH8)
 
 [Just Buzz or Real Byte? eBPF in Cloud Native | KubeCon China 2023](https://www.youtube.com/watch?v=UnERQrBXg1s&list=PLj6h78yzYM2OJcjIuAsbbhXAaDrAnuKRB&index=128)
 
@@ -41,6 +47,9 @@ My conference presentations that have recordings in chronological order:
 
 [Kubernetes for Non Coders| DevOps Gathering 2019](https://www.youtube.com/watch?v=krgzpyAe27o)
 
+### Documentaries
+
+[eBPF: Unlocking the Kernel](https://www.youtube.com/watch?v=Wb_vD3XZYOA)
 
 ### Blog Posts
 
