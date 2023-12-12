@@ -73,6 +73,8 @@ My conference presentations that have recordings in chronological order:
 
 ### Podcast Appearances
 
+[eBPF and Cilium Breakdown | The tangent](https://podcasters.spotify.com/pod/show/0xbochi)
+
 [Stories about how eBPF is used today | DevOps Sauna](https://www.eficode.com/devops-podcast/stories-about-how-ebpf-is-used-today)
 
 [Ask me anything with Bill Mulligan from Isovalent](https://www.youtube.com/watch?v=T8vAyrnbqsQ)
