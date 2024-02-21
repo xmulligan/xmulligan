@@ -9,6 +9,8 @@
 
 My conference presentations that have recordings in chronological order:
 
+[Building an Open Source Community One Friend at a Time | FOSDEM Community Dev Room 2024](https://fosdem.org/2024/schedule/event/fosdem-2024-2776-building-an-open-source-community-one-friend-at-a-time/)
+
 [A Practical Guide to eBPF Licensing: Or How I Learned to Stop Worrying and Love the GPL | KubeCon NA 2023](https://www.youtube.com/watch?v=cxyDEdzNdH8)
 
 [Just Buzz or Real Byte? eBPF in Cloud Native | KubeCon China 2023](https://www.youtube.com/watch?v=UnERQrBXg1s&list=PLj6h78yzYM2OJcjIuAsbbhXAaDrAnuKRB&index=128)
