@@ -57,6 +57,8 @@ My conference presentations that have recordings in chronological order:
 
 ### Blog Posts
 
+[Seccomp, eBPF, and the Importance of Kernel System Call Filtering | DZone](https://dzone.com/articles/seccomp-ebpf-and-the-importance-of-kernel-system-c)
+
 [Architecting Observability in a Cloud Native World With eBPF](https://cloudnativenow.com/topics/cloudnativeplatforms/architecting-observability-in-a-cloud-native-world-with-ebpf/)
 
 [From IP to identity: making cattle out of pets in cloud native](https://www.cncf.io/blog/2023/07/24/from-ip-to-identity-making-cattle-out-of-pets-in-cloud-native/)
