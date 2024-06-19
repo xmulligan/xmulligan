@@ -57,6 +57,8 @@ My conference presentations that have recordings in chronological order:
 
 ### Blog Posts
 
+[A Practical Guide to eBPF Licensing: Or How I Learned to Stop Worrying and Love the GPL](https://ebpf.io/blog/ebpf-licensing-guide/)
+
 [Seccomp, eBPF, and the Importance of Kernel System Call Filtering | DZone](https://dzone.com/articles/seccomp-ebpf-and-the-importance-of-kernel-system-c)
 
 [Architecting Observability in a Cloud Native World With eBPF](https://cloudnativenow.com/topics/cloudnativeplatforms/architecting-observability-in-a-cloud-native-world-with-ebpf/)
