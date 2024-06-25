@@ -57,6 +57,8 @@ My conference presentations that have recordings in chronological order:
 
 ### Blog Posts
 
+[Runtime Enforcement: Software Security After the Supply Chain Ends](https://securityboulevard.com/2024/06/runtime-enforcement-software-security-after-the-supply-chain-ends/)
+
 [A Practical Guide to eBPF Licensing: Or How I Learned to Stop Worrying and Love the GPL](https://ebpf.io/blog/ebpf-licensing-guide/)
 
 [Seccomp, eBPF, and the Importance of Kernel System Call Filtering | DZone](https://dzone.com/articles/seccomp-ebpf-and-the-importance-of-kernel-system-c)
