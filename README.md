@@ -85,6 +85,8 @@ My conference presentations that have recordings in chronological order:
 
 ### Podcast Appearances
 
+[Unlock Linux superpowers with eBPF, with Bill Mulligan - HS#28](https://www.hockeystick.show/p/unlock-linux-superpowers-with-ebpf)
+
 [eBPF: How to Pimp Your Kernel | Linux Inlaws](https://open.spotify.com/episode/1JdJCG9rcIpvwHDzsY6QId?si=dab295ea64884462)
 
 [Cilium and eBPF, with Bill Mulligan | Kubernetes Podcast from Google](https://kubernetespodcast.com/episode/217-cilium-ebpf/)
