@@ -9,6 +9,10 @@
 
 My conference presentations that have recordings in chronological order:
 
+[Pick My Project! Lessons Learned from Interviewing 20+ End Users for Cloud Native Case Studies | KubeCon NA 2024](https://www.youtube.com/watch?v=4EHJIkJbzCg&list=PLj6h78yzYM2Pw4mRw4S-1p_xLARMqPkA7&index=213)
+
+[Cilium: Connecting, Observing, and Securing Kubernetes and Beyond with eBPF | KubeCon NA 2024](https://www.youtube.com/watch?v=xJ_Jiv7y6N0&list=PLj6h78yzYM2Pw4mRw4S-1p_xLARMqPkA7&index=85)
+
 [Buzzing Across the eBPF Landscape and Into the Hive | Open Source Summit North America](https://www.youtube.com/watch?v=mjYA3X-VYxo)
 
 [Building an Open Source Community One Friend at a Time | FOSDEM Community Dev Room 2024](https://fosdem.org/2024/schedule/event/fosdem-2024-2776-building-an-open-source-community-one-friend-at-a-time/)
