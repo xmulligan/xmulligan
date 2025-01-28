@@ -61,15 +61,17 @@ My conference presentations that have recordings in chronological order:
 
 ### Blog Posts
 
-[Runtime Enforcement: Software Security After the Supply Chain Ends](https://securityboulevard.com/2024/06/runtime-enforcement-software-security-after-the-supply-chain-ends/)
+[Runtime Enforcement: Software Security After the Supply Chain Ends | Security Boulevard](https://securityboulevard.com/2024/06/runtime-enforcement-software-security-after-the-supply-chain-ends/)
 
-[A Practical Guide to eBPF Licensing: Or How I Learned to Stop Worrying and Love the GPL](https://ebpf.io/blog/ebpf-licensing-guide/)
+[A Practical Guide to eBPF Licensing: Or How I Learned to Stop Worrying and Love the GPL | ebpf.io](https://ebpf.io/blog/ebpf-licensing-guide/)
 
 [Seccomp, eBPF, and the Importance of Kernel System Call Filtering | DZone](https://dzone.com/articles/seccomp-ebpf-and-the-importance-of-kernel-system-c)
 
-[Architecting Observability in a Cloud Native World With eBPF](https://cloudnativenow.com/topics/cloudnativeplatforms/architecting-observability-in-a-cloud-native-world-with-ebpf/)
+[Architecting Observability in a Cloud Native World With eBPF | Cloud Native Now](https://cloudnativenow.com/topics/cloudnativeplatforms/architecting-observability-in-a-cloud-native-world-with-ebpf/)
 
-[From IP to identity: making cattle out of pets in cloud native](https://www.cncf.io/blog/2023/07/24/from-ip-to-identity-making-cattle-out-of-pets-in-cloud-native/)
+[Performant and Programmable Telco Networking with eBPF | The New Stack](https://thenewstack.io/performant-and-programmable-telco-networking-with-ebpf/)
+
+[From IP to identity: making cattle out of pets in cloud native | cncf.io](https://www.cncf.io/blog/2023/07/24/from-ip-to-identity-making-cattle-out-of-pets-in-cloud-native/)
 
 [The Silent Platform Revolution: How eBPF Is Fundamentally Transforming Cloud-Native Platforms | InfoQ](https://www.infoq.com/articles/ebpf-cloud-native-platforms/)
 
