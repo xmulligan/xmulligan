@@ -81,6 +81,8 @@ My conference presentations that have recordings in chronological order:
 
 [How eBPF unlocks cloud native innovation | InfoWorld](https://www.infoworld.com/article/3689690/how-ebpf-unlocks-cloud-native-innovation.html)
 
+[Why eBPF for All Means People Don’t Need to Care about eBPF | ebpf.io](https://ebpf.io/blog/ebpf-for-all/)
+
 [The Compounding (Business) Value of Composable Ecosystems | InfoQ](https://www.infoq.com/articles/open-source-composable-ecosystems/)
 
 [Edge Computing Requires Cloud Native Thinking Today | TFIR](https://www.tfir.io/edge-computing-requires-cloud-native-thinking-today/)
@@ -140,6 +142,5 @@ My conference presentations that have recordings in chronological order:
 ### Connect with Me
 
 - 💬 Ask me about open source, communities, CNCF, eBPF, and Cilium.
-- 📫 How to reach me: [@breakawaybilly](https://twitter.com/breakawaybilly), [LinkedIn](https://www.linkedin.com/in/bamulligan/), or billmulligan516 at gmail
+- 📫 How to reach me: [@breakawaybilly](https://bsky.app/profile/breakawaybilly.bsky.social), [LinkedIn](https://www.linkedin.com/in/bamulligan/), or billmulligan516 at gmail
 - 😄 Pronouns: he/him
-
