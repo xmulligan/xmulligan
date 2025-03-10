@@ -61,6 +61,8 @@ My conference presentations that have recordings in chronological order:
 
 ### Blog Posts
 
+[Rethinking System Architecture: The Rise of Distributed Intelligence with eBPF | The New Stack](https://thenewstack.io/rethinking-system-architecture-the-rise-of-distributed-intelligence-with-ebpf/)
+
 [Runtime Enforcement: Software Security After the Supply Chain Ends | Security Boulevard](https://securityboulevard.com/2024/06/runtime-enforcement-software-security-after-the-supply-chain-ends/)
 
 [A Practical Guide to eBPF Licensing: Or How I Learned to Stop Worrying and Love the GPL | ebpf.io](https://ebpf.io/blog/ebpf-licensing-guide/)
