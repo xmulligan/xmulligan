@@ -9,6 +9,8 @@
 
 My conference presentations that have recordings in chronological order:
 
+[Pick My Project! Lessons Learned from Interviewing and Writing 20+ End User Case Studies | FOSDEM Community Dev Room 2025](https://fosdem.org/2025/schedule/event/fosdem-2025-4474-pick-my-project-lessons-learned-from-interviewing-and-writing-20-end-user-case-studies/)
+
 [Pick My Project! Lessons Learned from Interviewing 20+ End Users for Cloud Native Case Studies | KubeCon NA 2024](https://www.youtube.com/watch?v=4EHJIkJbzCg&list=PLj6h78yzYM2Pw4mRw4S-1p_xLARMqPkA7&index=213)
 
 [Cilium: Connecting, Observing, and Securing Kubernetes and Beyond with eBPF | KubeCon NA 2024](https://www.youtube.com/watch?v=xJ_Jiv7y6N0&list=PLj6h78yzYM2Pw4mRw4S-1p_xLARMqPkA7&index=85)
