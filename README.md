@@ -143,6 +143,8 @@ My conference presentations that have recordings in chronological order:
 
 ### Annual Reports
 
+[Cilium Annual Report 2024](https://github.com/cilium/cilium.io/blob/main/Annual-Reports/Cilium_Annual_Report_2024.pdf)
+
 [Cilium Annual Report 2022](https://github.com/cilium/cilium.io/blob/main/Annual-Reports/Cilium%20Annual%20Report%202022.pdf)
 
 ### Connect with Me
