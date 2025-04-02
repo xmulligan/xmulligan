@@ -61,6 +61,8 @@ My conference presentations that have recordings in chronological order:
 
 ### Blog Posts
 
+[eBPF Announces Support for Tolkien Ring | ebpf.io](https://ebpf.io/blog/support-for-tolkien-ring/)
+
 [Rethinking System Architecture: The Rise of Distributed Intelligence with eBPF | The New Stack](https://thenewstack.io/rethinking-system-architecture-the-rise-of-distributed-intelligence-with-ebpf/)
 
 [Runtime Enforcement: Software Security After the Supply Chain Ends | Security Boulevard](https://securityboulevard.com/2024/06/runtime-enforcement-software-security-after-the-supply-chain-ends/)
@@ -78,6 +80,8 @@ My conference presentations that have recordings in chronological order:
 [The Silent Platform Revolution: How eBPF Is Fundamentally Transforming Cloud-Native Platforms | InfoQ](https://www.infoq.com/articles/ebpf-cloud-native-platforms/)
 
 [The Cilium Story So Far | Cloud Native Now](https://cloudnativenow.com/features/the-cilium-story-so-far/)
+
+[Announcing eBPF 2.0: excelBPF™ | ebpf.io](https://ebpf.io/blog/launching-excel-bpf/)
 
 [The Future of Service Mesh is Networking | InfoQ](https://www.infoq.com/articles/service-mesh-networking/)
 
