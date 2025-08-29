@@ -107,6 +107,8 @@ My conference presentations that have recordings in chronological order:
 
 ### Podcast Appearances
 
+[Interview with Bill Mulligan | eBPFChirp](https://ebpfchirp.substack.com/p/interview-with-bill-mulligan-cilium)
+
 [Unlock Linux superpowers with eBPF, with Bill Mulligan - HS#28](https://www.hockeystick.show/p/unlock-linux-superpowers-with-ebpf)
 
 [eBPF: How to Pimp Your Kernel | Linux Inlaws](https://open.spotify.com/episode/1JdJCG9rcIpvwHDzsY6QId?si=dab295ea64884462)
