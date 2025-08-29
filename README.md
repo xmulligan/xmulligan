@@ -63,6 +63,8 @@ My conference presentations that have recordings in chronological order:
 
 ### Blog Posts
 
+[eBPF and the Systems Trilemma: Reshaping Operating System Design for Safety, Performance, and Programmability | USENIX ;login](https://www.usenix.org/publications/loginonline/ebpf-and-systems-trilemma)
+
 [eBPF Announces Support for Tolkien Ring | ebpf.io](https://ebpf.io/blog/support-for-tolkien-ring/)
 
 [Rethinking System Architecture: The Rise of Distributed Intelligence with eBPF | The New Stack](https://thenewstack.io/rethinking-system-architecture-the-rise-of-distributed-intelligence-with-ebpf/)
