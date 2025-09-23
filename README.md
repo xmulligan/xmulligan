@@ -135,12 +135,6 @@ My conference presentations that have recordings in chronological order:
 
 [Cloud Computing as a Carrier | E-LIFE](https://www.youtube.com/watch?v=XwMpcZkqrck)
 
-### Annual Reports
-
-[Cilium Annual Report 2024](https://github.com/cilium/cilium.io/blob/main/Annual-Reports/Cilium_Annual_Report_2024.pdf)
-
-[Cilium Annual Report 2022](https://github.com/cilium/cilium.io/blob/main/Annual-Reports/Cilium%20Annual%20Report%202022.pdf)
-
 ### Connect with Me
 
 - 💬 Ask me about open source, communities, CNCF, eBPF, and Cilium.
