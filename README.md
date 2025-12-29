@@ -9,6 +9,8 @@
 
 My conference presentations that have recordings in chronological order:
 
+[From Projects to Ecosystems: Lessons from the eBPF Foundation | Linux Plumbers Conference 2025](https://www.youtube.com/watch?v=TjwCaf6u-QU)
+
 [Simplifying the Networking and Security Stack With Cilium, Hubble, and Tetragon | KubeCon EU 2025](https://www.youtube.com/watch?v=kYT7KV_Cijs&list=PLj6h78yzYM2MP0QhYFK8HOb8UqgbIkLMc&index=204)
 
 [Pick My Project! Lessons Learned from Interviewing and Writing 20+ End User Case Studies | FOSDEM Community Dev Room 2025](https://fosdem.org/2025/schedule/event/fosdem-2025-4474-pick-my-project-lessons-learned-from-interviewing-and-writing-20-end-user-case-studies/)
@@ -106,6 +108,8 @@ My conference presentations that have recordings in chronological order:
 [How to Treat Your Kubernetes Clusters Like Cattle, Not Pets | The New Stack](https://thenewstack.io/how-to-treat-your-kubernetes-clusters-like-cattle-not-pets/)
 
 ### Podcast Appearances
+
+[Open Source Friday with Cilium | Github Livestream](https://www.youtube.com/live/Hio_cJjrR-Y)
 
 [Interview with Bill Mulligan | eBPFChirp](https://ebpfchirp.substack.com/p/interview-with-bill-mulligan-cilium)
 
