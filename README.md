@@ -9,6 +9,8 @@
 
 My conference presentations that have recordings in chronological order:
 
+[Ecosystems, Not Projects: Rethinking Open Source Foundation Funding | FOSDEM Funding the FOSS Ecosystem Dev Room 2026](https://fosdem.org/2026/schedule/event/KVJZCS-self-sustainability/)
+
 [From Projects to Ecosystems: Lessons from the eBPF Foundation | Linux Plumbers Conference 2025](https://www.youtube.com/watch?v=TjwCaf6u-QU)
 
 [Simplifying the Networking and Security Stack With Cilium, Hubble, and Tetragon | KubeCon EU 2025](https://www.youtube.com/watch?v=kYT7KV_Cijs&list=PLj6h78yzYM2MP0QhYFK8HOb8UqgbIkLMc&index=204)
@@ -108,6 +110,8 @@ My conference presentations that have recordings in chronological order:
 [How to Treat Your Kubernetes Clusters Like Cattle, Not Pets | The New Stack](https://thenewstack.io/how-to-treat-your-kubernetes-clusters-like-cattle-not-pets/)
 
 ### Podcast Appearances
+
+[The eBPF Shift in Observability | Observability Unplugged](https://www.youtube.com/watch?v=dBKWpEko1bU)
 
 [Open Source Friday with Cilium | Github Livestream](https://www.youtube.com/live/Hio_cJjrR-Y)
 
