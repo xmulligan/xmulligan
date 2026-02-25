@@ -113,6 +113,10 @@ My conference presentations that have recordings in chronological order:
 
 [The eBPF Shift in Observability | Observability Unplugged](https://www.youtube.com/watch?v=dBKWpEko1bU)
 
+[Why eBPF Is Redefining How Software Runs Inside the Linux Kernel | Techstrong.tv](https://techstrong.tv/videos/interviews/why-ebpf-is-redefining-how-software-runs-inside-the-linux-kernel)
+
+[The eBPF Shift in Observability | Observability Unplugged](https://www.youtube.com/watch?v=dBKWpEko1bU)
+
 [Open Source Friday with Cilium | Github Livestream](https://www.youtube.com/live/Hio_cJjrR-Y)
 
 [Interview with Bill Mulligan | eBPFChirp](https://ebpfchirp.substack.com/p/interview-with-bill-mulligan-cilium)
