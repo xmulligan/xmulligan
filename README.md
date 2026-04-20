@@ -9,6 +9,12 @@
 
 My conference presentations that have recordings in chronological order:
 
+[Built in the Open: Why Cisco Is Betting on eBPF, Cilium, and Tetragon | CiliumCon EU Keynote 2026](https://www.youtube.com/watch?v=XQuLlpI2FI4&list=PLDg_GiBbAx-mSQHa1y9Z9sjBYUmG2FBCZ&index=5)
+
+[10 Years of Cilium: Connecting, Securing, and Simplifying the Cloud Native Stack | KubeCon EU 2026](https://www.youtube.com/watch?v=EN_77SkK5jg&list=PLj6h78yzYM2MXCOWSN9CqqID6OOvF7wxL&index=367)
+
+[Translating eBPF Into Business Value: Lessons From The Cilium Website | KubeCon EU 2026](https://www.youtube.com/watch?v=J4jHq2ExjJo&list=PLj6h78yzYM2MXCOWSN9CqqID6OOvF7wxL&index=137)
+
 [Ecosystems, Not Projects: Rethinking Open Source Foundation Funding | FOSDEM Funding the FOSS Ecosystem Dev Room 2026](https://fosdem.org/2026/schedule/event/KVJZCS-self-sustainability/)
 
 [From Projects to Ecosystems: Lessons from the eBPF Foundation | Linux Plumbers Conference 2025](https://www.youtube.com/watch?v=TjwCaf6u-QU)
