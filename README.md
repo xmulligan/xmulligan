@@ -117,6 +117,8 @@ My conference presentations that have recordings in chronological order:
 
 ### Podcast Appearances
 
+[Cilium, eBPF, and Modern Kubernetes Networking with Bill Mulligan | Software Engineering Daily](https://softwareengineeringdaily.com/2026/03/26/cilium-ebpf-and-modern-kubernetes-networking-with-bill-mulligan/)
+
 [The eBPF Shift in Observability | Observability Unplugged](https://www.youtube.com/watch?v=dBKWpEko1bU)
 
 [Why eBPF Is Redefining How Software Runs Inside the Linux Kernel | Techstrong.tv](https://techstrong.tv/videos/interviews/why-ebpf-is-redefining-how-software-runs-inside-the-linux-kernel)
