@@ -1,5 +1,5 @@
 ### Hi there 👋
-🐝 I am a Community Pollinator working to grow the [Cilium](https://github.com/cilium/cilium) and [eBPF](https://www.ebpf.io/) communities at [Isovalent](https://isovalent.com/). You can [subscribe to my bi-weekly newsletter](https://cilium.io/newsletter/) to stay up to date on the communities and all things cloud native networking, observability, and security.
+🐝 I am a Community Pollinator working to grow the [Cilium](https://github.com/cilium/cilium) and [eBPF](https://www.ebpf.io/) communities at [Isovalent](https://isovalent.com/). You can [subscribe to my bi-weekly newsletter](https://www.linkedin.com/newsletters/echo-news-6937495018668482560/) to stay up to date on the communities and all things cloud native networking, observability, and security.
 
 ### Books
 
