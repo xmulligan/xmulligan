@@ -5,6 +5,8 @@
 
 [Buzzing Across Space: The Illustrated Children’s Guide to eBPF](https://ebpf.io/books/buzzing-across-space-illustrated-childrens-guide-to-ebpf.pdf)
 
+[Buzzing Beyond Clouds: The Illustrated Children's Guide to Cilium](https://isovalent.com/books/children-guide-to-cilium/)
+
 ### Conference Videos
 
 My conference presentations that have recordings in chronological order:
